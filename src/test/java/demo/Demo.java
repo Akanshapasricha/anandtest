@@ -15,6 +15,7 @@ public class Demo
 	  System.setProperty("webdriver.chrome.driver","D:\\WebFramework\\ProjectTest\\exefiles\\chromedriver.exe");
 	  driver= new ChromeDriver();
 	  driver.get("http://148.76.75.203/united_missions/");
+	  System.out.println("hello aks");
 	  
   }
 	
